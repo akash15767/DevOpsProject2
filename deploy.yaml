@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: custom
-        image: akash157/DevOpsProject
+        image: akash157/devopsproject
         ports:
         - containerPort: 80
 
